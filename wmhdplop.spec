@@ -1,7 +1,7 @@
 %define name	wmhdplop
 %define summary Wmhdplop is yet another monitoring applet
 %define version	0.9.9
-%define release	%mkrel 4
+%define release	%mkrel 5
 
 Name:		%{name}
 Version:	%{version}
