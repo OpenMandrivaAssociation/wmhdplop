@@ -9,7 +9,7 @@ Release:	%{release}
 Summary:	%{summary}
 License:	GPL
 Source0:	%{name}-%{version}.tar.bz2
-URL:		http://hules.free.fr/wmhdplop
+URL:		https://hules.free.fr/wmhdplop
 Group:		Monitoring
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	imlib2-devel
