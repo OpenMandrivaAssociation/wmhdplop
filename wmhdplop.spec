@@ -12,6 +12,11 @@ Source0:	%{name}-%{version}.tar.bz2
 URL:		https://hules.free.fr/wmhdplop
 Group:		Monitoring
 BuildRoot:	%{_tmppath}/%{name}-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	imlib2-devel
 BuildRequires:	freetype-devel
 BuildRequires:  gkrellm-devel
